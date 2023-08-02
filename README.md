@@ -1,5 +1,5 @@
 # Reinforcement Learning
-강화학습 이론 정리
+강화학습 이론 정리 (2022.03~2022.07)
 
 ## Usage
 It is possible to learn reinforcement learning fundamentals that directly analyze reinforcement learning algorithms.
